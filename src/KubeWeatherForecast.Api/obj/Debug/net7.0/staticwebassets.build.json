@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U7FetVYc9bYFaCHlaDMlxKkrDwlgPUF0lhpLDBWpklU=",
+  "Source": "KubeWeatherForecast.Api",
+  "BasePath": "_content/KubeWeatherForecast.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

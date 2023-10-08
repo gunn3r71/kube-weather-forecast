@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KubeWeatherForecast.Api.props" />
+</Project>
